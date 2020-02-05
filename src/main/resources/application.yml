@@ -1,0 +1,13 @@
+guru:
+  jms:
+    username: lahcen
+    password: 2022
+    dburl: "postgres:5321"
+
+---
+spring:
+  profiles: de
+
+guru:
+  jms:
+    username: shlem shlem

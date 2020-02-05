@@ -1,0 +1,27 @@
+# comment
+name: Jhon
+names: # comment
+  - jhon
+  - lahcen
+  - toto
+pound_sign: "#"
+
+book :
+  author : Joe Buck
+  publisher : Udemy
+
+truth: yes
+another_truth: True
+more_true: true
+false: no
+string_val: "this is it's quote"
+colon_string: "my courses: one two three"
+include_new_lines: |
+  mlfjksdldkgjfdlkj
+  kdsjhfkjsdhfkjshd
+  oreiuiryueiho
+
+ignore_one_line : >
+  this is
+  just one line
+  yolo
